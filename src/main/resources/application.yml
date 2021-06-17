@@ -5,3 +5,8 @@ spring:
 server:
   http2:
     enabled: true
+
+graphql:
+  tools:
+    schema-location-pattern: "**/*.graphqls"
+    introspection-enabled: true
