@@ -1,0 +1,8 @@
+# BankAccount Info
+type BankAccount {
+    id: ID!
+    name: String!
+    currency: Currency!
+}
+
+

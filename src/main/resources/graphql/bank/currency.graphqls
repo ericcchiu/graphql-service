@@ -1,0 +1,7 @@
+# Supporter Currencies
+enum Currency {
+    USD
+    CAD
+    EUR
+    RMB
+}
